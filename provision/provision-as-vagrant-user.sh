@@ -52,16 +52,6 @@ mkdir code
 cd code
 git clone https://github.com/WeIgniteTech/the-weignitetech-program.git  
 
-echo -e "\n \n"
-echo -e "\n \n"
-echo -e "\n __        __     ___            _ _         _____         _      \n"
-echo -e "\n \ \      / /__  |_ _|__ _ _ __ (_) |_ ___  |_   _|__  ___| |__   \n"
-echo -e "\n  \ \ /\ / / _ \  | |/ _\` | '_ \| | __/ _ \   | |/ _ \/ __| '_ \  \n"
-echo -e "\n   \ V  V /  __/  | | (_| | | | | | ||  __/   | |  __/ (__| | | | \n"
-echo -e "\n    \_/\_/ \___| |___\__, |_| |_|_|\__\___|   |_|\___|\___|_| |_| \n"
-echo -e "\n                     |___/                                        \n"
-echo -e "\n \n"
-echo -e "\n \n"
 
 echo -e "\n**** \n**** Installation is done!!!\n**** \n"
 echo -e "\n\n"
