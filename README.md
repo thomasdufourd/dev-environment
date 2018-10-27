@@ -14,8 +14,10 @@ Test the install:
 > After the install is complete, you can use Vagrant and VirtualBox to install a fully provisioned VM 
  * Download this repository as a zip file
  * On your machine open unzip the content in a convenient folder (`C:\Users\myself\wit\` for example) 
+ * Update the `Vagrantfile` with your name, cpus and RAM you can give to the virtual machine. Save the file. 
  * Open a `console` and navigate to the same folder
  * then run `vagrant up` ... this should take a few minutes
+ * In `VirtualBox` you can `See` (opens as new window), `stop` and `start` the VM. Enjoy!
 
 ## Under the hood
 > Our `lubuntu 18.04` box is hosted on [Vagrant Cloud](https://app.vagrantup.com/weignitetech) 
