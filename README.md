@@ -11,7 +11,7 @@ Test the install:
  * Open a `console` and run `vagrant -v`. You should see something like: `Vagrant 2.1.5`
  * Open VirtualBox
 
-> Using Vagrant and VirtualBox to install a fully provisioned VM 
+> After the install is complete, you can use Vagrant and VirtualBox to install a fully provisioned VM 
  * Download this repository as a zip file
  * On your machine open unzip the content in a convenient folder (`C:\Users\myself\wit\` for example) 
  * Open a `console` and navigate to the same folder
